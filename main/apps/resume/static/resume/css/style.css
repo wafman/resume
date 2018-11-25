@@ -1,0 +1,13 @@
+
+.container{
+    background: url("../images/fancycrave-277756-unsplash.jpg");
+    background-size: cover;
+    color: white;
+}
+
+img {
+    height: 300px;
+    width: 200px;
+    border-radius: 50%;
+}
+
